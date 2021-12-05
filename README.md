@@ -1,7 +1,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=clw5180)
 
-![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/clwwlc/competition/light)
+
 
 <!--
 **clw5180/clw5180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/clwwlc/competition/light)
+
 -->
